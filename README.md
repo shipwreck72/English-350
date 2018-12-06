@@ -6,7 +6,7 @@ Fall 2018<br>
 
 <b>Table of contents</b><br>
    1. Essay
-   2. Section
+   2. Section 2
       * Header(Readme.md)
       * Project 1
       * Project 2
